@@ -1,0 +1,3 @@
+FROM alpine
+
+ENTRYPOINT sleep 10000000000
