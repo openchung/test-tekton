@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: registry.cn-shanghai.aliyuncs.com/hxpdocker/testimage
+        image: dannielchung/testimage
